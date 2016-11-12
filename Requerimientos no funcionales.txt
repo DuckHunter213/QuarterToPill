@@ -1,0 +1,20 @@
+Eficiente: Nuestro sistema pretender ser eficiente a la hora de, tanto
+crear las pills, como cuando inicia el mismo, de modo que lo haga 
+sin ningun tipo de contratiempo. Debe acceder a las pills con un 
+tiempo maximo de 5s y su tiempo de respuesta sera de milisegundos.
+
+Seguridad: En cuanto a seguridad, nuestra aplicacion esta pensada para 
+que se pueda ya sea, iniciar sesion con la cuenta de google o de forma 
+local de ser la primera opcion, trabajaremos con un sistema de respaldo
+por si el usuario cambia de celular y no quiere volver hacer sus pills 
+solo bastará con iniciar sesion con su cuenta de google, ademas de que
+el usuario sera el unico con acceso a sus pills y solo el podra efectuar
+cambios en las mismas. Por supuesto que los datos estarán seguros con 
+nosotros de modo que nadie utilizará sus datos para alguna otra actividad.
+
+Usable: En cuanto la usabilidad de nuestra aplicación, pretendemos que el 
+tiempo que le tome al usuario aprender a utilizarla sea de menos de 1 hora,
+ademas de que por si el usuario no aprende intuitivamente se pondra un 
+apartado de ayuda con el fin de auxiliar a los usuarios, ademas de propor-
+cionar un mensaje de error por si comete algo mal. 
+ 	
